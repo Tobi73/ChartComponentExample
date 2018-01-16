@@ -33,13 +33,15 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="ChartComponent, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\CourseWork.ChartComponent.1.0.5\lib\net452\ChartComponent.dll</HintPath>
+      <HintPath>..\packages\CourseWork.ChartComponent.1.1.0\lib\net452\ChartComponent.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="EPPlus, Version=4.1.1.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
       <HintPath>..\packages\EPPlus.4.1.1\lib\net40\EPPlus.dll</HintPath>
     </Reference>
-    <Reference Include="MainComponent, Version=1.0.5.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\CourseWork.ChartComponent.1.0.5\lib\net452\MainComponent.dll</HintPath>
+    <Reference Include="MainComponent, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\CourseWork.ChartComponent.1.1.0\lib\net452\MainComponent.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
@@ -57,7 +59,8 @@
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
     <Reference Include="TreeComponent, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\CourseWork.ChartComponent.1.0.5\lib\net452\TreeComponent.dll</HintPath>
+      <HintPath>..\packages\CourseWork.ChartComponent.1.1.0\lib\net452\TreeComponent.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Vse.Web.Serialization, Version=1.0.4.0, Culture=neutral, PublicKeyToken=fb838febb49f46b2, processorArchitecture=MSIL">
       <HintPath>..\packages\Vse.Web.Serialization.ControlledSerializationJsonConverter.1.0.4\lib\net45\Vse.Web.Serialization.dll</HintPath>
